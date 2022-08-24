@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Background0.png</file>
+        <file>res/Background1.png</file>
+        <file>res/Icon.png</file>
+        <file>res/Title.png</file>
+        <file>res/HelpBtn.png</file>
+        <file>res/LoadGameBtn.png</file>
+        <file>res/NewGameBtn.png</file>
+        <file>res/BackgroundHelp.png</file>
+        <file>res/PVEBtn.png</file>
+        <file>res/PVPBtn.png</file>
+        <file>res/EasyModeBtn.png</file>
+        <file>res/HardModeBtn.png</file>
+        <file>res/NormalModeBtn.png</file>
+        <file>res/AchievementBtn.png</file>
+        <file>res/BlackPlayerBtn.png</file>
+        <file>res/WhitePlayerBtn.png</file>
+        <file>res/TitleSmall.png</file>
+        <file>res/HelpPlayBtn.png</file>
+        <file>res/PauseBtn.png</file>
+        <file>res/SaveBtn.png</file>
+        <file>res/Chess.wav</file>
+        <file>res/bgm.wav</file>
+        <file>res/TitleBtn.wav</file>
+    </qresource>
+</RCC>
